@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d97fc800-db11-4052-b564-2706b15abb2c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1kqsdumMrHcqupqagw874nfFs0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="U:\COMP2001\php\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Index" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/php/public/Index" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Index" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d97fc800-db11-4052-b564-2706b15abb2c" name="Default Changelist" comment="" />
+      <created>1606439546847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606439546847</updated>
+      <workItem from="1606439547938" duration="1418000" />
+      <workItem from="1606496830819" duration="2502000" />
+      <workItem from="1606571216039" duration="3898000" />
+      <workItem from="1606575216781" duration="36000" />
+      <workItem from="1606575263266" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3227" y="301" key="#PHP" timestamp="1606574913325">
+      <screen x="2560" y="139" width="1920" height="1040" />
+    </state>
+    <state x="3227" y="301" key="#PHP/0.0.2560.1400/2560.139.1920.1040@2560.139.1920.1040" timestamp="1606574913325" />
+    <state x="1050" y="501" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606440936835">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1050" y="501" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.139.1920.1040@0.0.2560.1400" timestamp="1606440936835" />
+    <state x="3300" y="413" key="FileChooserDialogImpl" timestamp="1606575270710">
+      <screen x="2560" y="139" width="1920" height="1040" />
+    </state>
+    <state x="3300" y="413" key="FileChooserDialogImpl/0.0.2560.1400/2560.139.1920.1040@2560.139.1920.1040" timestamp="1606575270710" />
+  </component>
+</project>
