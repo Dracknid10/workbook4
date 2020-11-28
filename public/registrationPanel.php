@@ -1,3 +1,11 @@
+<?php
+
+include_once 'header.php';
+
+?>
+
+
+
 <h1>Stationery Application</h1>
 
     <body class="bg-info">
@@ -12,22 +20,21 @@
     </div>
 
     <div>
-        <form action = "agreement.php" method="post">
+        <form action = "landingpage.php" method="POST">
 
-        <input name="Name" id="name" type="text" required>
-        <label for="Name">Name</label
 
-        <input name="Postcode" id="name" type="text" required>
-        <label for="Postcode">Postcode</label
 
-        <input name="Email" id="name" type="text">
-        <label for="Email">Email</label
+        <label for="Name">Name</label<br>
+        <input name="Name" id="Name" type="text"><br>
+
+        <label for="Postcode">Postcode</label<br>
+        <input name="Postcode" id="name" type="text" required><br>
+
+        <label for="Email">Email</label<br>
+        <input name="Email" id="name" type="text"><br>
+
 
         <button>submit</button>
-
-
-
-
 
 
         </form>
@@ -35,4 +42,4 @@
 
     </body>
 
-
+<?php include_once 'footer.php';?>

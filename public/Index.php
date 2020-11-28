@@ -32,7 +32,13 @@ include_once 'header.php';
         <button>submit</button>
 
 
-    </form>
+
+<br>
+<a href="http://localhost/workbook4/public/registrationPanel.php" target="_blank"> OPEN REGISTRATION</a>
+
+
+
+
 </div>
 
 </body>
