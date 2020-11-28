@@ -39,7 +39,7 @@ else
     echo ' your postcode is ';
     echo $postcode;
     echo ' and your email is';
-    echo $Email;
+    echo $Email;------
 }
 
 
