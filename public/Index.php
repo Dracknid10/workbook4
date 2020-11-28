@@ -21,7 +21,7 @@ include_once 'header.php';
 </div>
 
 <div>
-    <form action = "agreement.php" method="post">
+    <form action = "agreement.php" method="get">
 
         <input type="radio" id="true" name="decision" value="true">
         <label for="true">I agree</label><br>

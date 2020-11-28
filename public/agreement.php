@@ -11,7 +11,7 @@
 
 <?php
 
-$decision= $_POST ['decision'];
+$decision= $_GET ['decision'];
 
 echo 'You have selected ';
 echo $decision;
