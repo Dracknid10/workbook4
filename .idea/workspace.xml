@@ -20,7 +20,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97fc800-db11-4052-b564-2706b15abb2c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/landingpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/landingpage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Models/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/workbook4.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +109,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -89,7 +157,7 @@
       <workItem from="1606577750546" duration="226000" />
       <workItem from="1606578230240" duration="3000" />
       <workItem from="1606578298113" duration="4000" />
-      <workItem from="1606578435281" duration="7079000" />
+      <workItem from="1606578435281" duration="9845000" />
     </task>
     <servers />
   </component>
@@ -107,6 +175,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="3227" y="301" key="#PHP" timestamp="1606574913325">
