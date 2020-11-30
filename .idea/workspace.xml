@@ -20,74 +20,94 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d97fc800-db11-4052-b564-2706b15abb2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/Server/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Controllers/HomeController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Models/ErrorViewModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Properties/launchSettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Startup.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Home/Index.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Home/Privacy.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Shared/Error.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/_ViewImports.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/Views/_ViewStart.cshtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/appsettings.Development.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorAssemblyInfo.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorAssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/workbook4.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/js/site.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Humanizer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/bin/Debug/netcoreapp3.1/workbook4.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/staticwebassets/workbook4.StaticWebAssets.Manifest.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/staticwebassets/workbook4.StaticWebAssets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.MvcApplicationPartsAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorCoreGenerate.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorTargetAssemblyInfo.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.RazorTargetAssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.TagHelpers.input.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.TagHelpers.output.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.Views.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.Views.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/.vs/workbook4/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/Debug/netcoreapp3.1/workbook4.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/obj/workbook4.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workbook4/workbook4/workbook4.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/workbook4/workbook4/workbook4.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +178,7 @@
       <workItem from="1606578230240" duration="3000" />
       <workItem from="1606578298113" duration="4000" />
       <workItem from="1606578435281" duration="9845000" />
+      <workItem from="1606678367563" duration="162000" />
     </task>
     <servers />
   </component>
